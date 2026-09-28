@@ -5,6 +5,10 @@ VisualStudioVersion = 16.0.31624.102
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrisonersAreNotSwines", "Source/PrisonersAreNotSwines.csproj", "{2D6EB660-95A2-4800-BC3F-35BDEFA8C179}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevTools", "DevTools\DevTools\DevTools.csproj", "{CBD9893C-47BE-405E-89F7-2342F47D26BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrisonersAreNotSwines.Tests", "PrisonersAreNotSwines.Tests\PrisonersAreNotSwines.Tests.csproj", "{3C458436-B13E-48CF-9FE6-1F5596E67E30}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{2D6EB660-95A2-4800-BC3F-35BDEFA8C179}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2D6EB660-95A2-4800-BC3F-35BDEFA8C179}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2D6EB660-95A2-4800-BC3F-35BDEFA8C179}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CBD9893C-47BE-405E-89F7-2342F47D26BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBD9893C-47BE-405E-89F7-2342F47D26BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBD9893C-47BE-405E-89F7-2342F47D26BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBD9893C-47BE-405E-89F7-2342F47D26BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C458436-B13E-48CF-9FE6-1F5596E67E30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C458436-B13E-48CF-9FE6-1F5596E67E30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C458436-B13E-48CF-9FE6-1F5596E67E30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C458436-B13E-48CF-9FE6-1F5596E67E30}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
